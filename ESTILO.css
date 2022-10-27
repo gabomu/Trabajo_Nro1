@@ -1,63 +1,28 @@
-/* modificando los ID*/
 #header {
-    padding: 5px;
-    background-color: rgb(136, 209, 94);
-    display: flex;
-    text-align: center;
-    border-style: solid;color: rgb(255, 255, 255);
-}
-    
-    
-#contend { 
-    text-align: justify;
-    margin-top: 10px;
-    font-size: 16px;
-    padding: 20px;
-    margin: 40px;
-    background-color: rgb(180, 74, 74);
-    border-style: solid;color: rgb(255, 255, 255);
-    border-radius: 20px;
-
-}
-
-
-
-
-.separador1{
-float: left;
-
-    width: 900px;
-}
-
-   .header-title { 
-    padding-left: 68px;
-    width: 100%;}
-
-   .header-image {
-    width: 15%;}
-
-.main{
-    height: 100px;
-}
-body{
-
-            background-color: rgb(255, 225, 55);}
-
-
+         padding: 50px;
+         background-color: rgb(0, 0, 0);
+         display: flex;
+         text-align: center;
+         border-style: solid;color: rgb(255, 255, 255);} 
+#contend {
+         margin-top: 40px;
+         font-size: 20px;
+         padding: 24px;
+         margin: 30px;
+         background-color: rgb(108, 146, 134);
+         border-style: solid;color: rgba(0, 0, 0, 0.671);}
+.espacio{
+         float: right;
+         width: 785px;}
+.header-title { 
+        padding-left: 50px;
+        width: 60%;}
+.header-image {
+        width: 15%;}
 
 table, tr, td, th{
-            border: solid black 2px;
-            border-radius: 10px;
-            padding: 20px;
-            margin: 40px;
-  
-        }
-    .secciontable{
-        background-color: aquamarine;
-
-        }
-
-
-        #footer {
-            padding: 30%;
-            background-color: rgb(226, 83, 64);}
+        border: solid black 5px;
+        padding: 30px;
+        margin: 250px;}
+body{
+        background-color: rgba(255, 126, 175, 0.171);}
